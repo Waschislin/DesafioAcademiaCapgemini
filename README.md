@@ -10,4 +10,4 @@
 
 ## Informações extras: 
 - Todas as questões pedem dados do usuário e retornam o resultado via terminal.
-- Cada pasta é uma questão. Ex: DesafioCap seria o projeto da questão 1, DesafioCap2 seria o projeto da questão 2 e DesafioCap3 seria o projeto da questão 3.
+- Cada pasta é o projeto da questão respectiva ao nome. Ex: DesafioCap seria o projeto da questão 1, DesafioCap2 seria o projeto da questão 2 e DesafioCap3 seria o projeto da questão 3.
