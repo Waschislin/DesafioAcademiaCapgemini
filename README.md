@@ -2,10 +2,11 @@
 
 ## Tecnologias utilizadas:
  
-- Questões resolvidas utilizando a linguagem JAVA. 
+- Questões resolvidas utilizando a linguagem JAVA, por possuir mais conforto com a linguagem. 
+- IntelliJ IDEA Community Edition, para a escrita do código.
 
 ## Como rodar o projeto: 
-- Para a execução recomenda-se que o usuário abra o projeto em alguma IDE e o execute.
+- Para a execução recomenda-se que o usuário abra o projeto em alguma IDE e o execute. De preferência utilizar o IntelliJ IDEA Community Edition.
 - Após a compilação, as soluções serão executadas por terminal, tanto entrada quanto saída de dados.
 
 ## Informações extras: 
